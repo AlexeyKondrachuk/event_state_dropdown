@@ -1,0 +1,1 @@
+export const menuData = ["Profile Information", "Change Password", "Become PRO", "Help", "Log Out"]
